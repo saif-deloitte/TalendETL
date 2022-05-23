@@ -1,0 +1,96 @@
+{
+  "itemId" : "_GzXwkNqIEeyYCYBMaUlbBw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_evvtgNqxEeyYCYBMaUlbBw",
+    "parameterList" : [ {
+      "id" : "_ewLLUdqxEeyYCYBMaUlbBw",
+      "name" : "Sales_data_csv_Header"
+    }, {
+      "id" : "_ewLLUtqxEeyYCYBMaUlbBw",
+      "name" : "Sales_data_csv_File"
+    }, {
+      "id" : "_ewLLU9qxEeyYCYBMaUlbBw",
+      "name" : "Sales_data_csv_FieldSeparator"
+    }, {
+      "id" : "_ewLLVNqxEeyYCYBMaUlbBw",
+      "name" : "Sales_data_csv_RowSeparator"
+    }, {
+      "id" : "_ewLLVdqxEeyYCYBMaUlbBw",
+      "name" : "Sales_data_csv_Encoding"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_l4mxINqyEeyYCYBMaUlbBw",
+    "parameterList" : [ {
+      "id" : "_l5FSQtqyEeyYCYBMaUlbBw",
+      "name" : "salesDataWork_csv_File"
+    }, {
+      "id" : "_l5FSRNqyEeyYCYBMaUlbBw",
+      "name" : "salesDataWork_csv_RowSeparator"
+    }, {
+      "id" : "_l5FSRtqyEeyYCYBMaUlbBw",
+      "name" : "salesDataWork_csv_Encoding"
+    }, {
+      "id" : "_l5FSQ9qyEeyYCYBMaUlbBw",
+      "name" : "salesDataWork_csv_FieldSeparator"
+    }, {
+      "id" : "_l5FSQdqyEeyYCYBMaUlbBw",
+      "name" : "salesDataWork_csv_Header"
+    }, {
+      "id" : "_l5FSRdqyEeyYCYBMaUlbBw",
+      "name" : "salesDataWork_csv_Limit"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_o89lENrVEeyTwpnn6heDyg",
+    "parameterList" : [ {
+      "id" : "_o9MOkdrVEeyTwpnn6heDyg",
+      "name" : "salesData_csv_Encoding"
+    }, {
+      "id" : "_o9MOldrVEeyTwpnn6heDyg",
+      "name" : "salesData_csv_RowSeparator"
+    }, {
+      "id" : "_o9MOlNrVEeyTwpnn6heDyg",
+      "name" : "salesData_csv_File"
+    }, {
+      "id" : "_o9MOktrVEeyTwpnn6heDyg",
+      "name" : "salesData_csv_FieldSeparator"
+    }, {
+      "id" : "_o9MOk9rVEeyTwpnn6heDyg",
+      "name" : "salesData_csv_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_S-kJMNrXEeyTwpnn6heDyg",
+    "parameterList" : [ {
+      "id" : "_S-3rNdrXEeyTwpnn6heDyg",
+      "name" : "stagingFile_csv_RowSeparator"
+    }, {
+      "id" : "_S-3rMtrXEeyTwpnn6heDyg",
+      "name" : "stagingFile_csv_FieldSeparator"
+    }, {
+      "id" : "_S-3rNNrXEeyTwpnn6heDyg",
+      "name" : "stagingFile_csv_File"
+    }, {
+      "id" : "_S-3rMdrXEeyTwpnn6heDyg",
+      "name" : "stagingFile_csv_Encoding"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_guK3UNrYEeyTwpnn6heDyg",
+    "parameterList" : [ {
+      "id" : "_gueZVNrYEeyTwpnn6heDyg",
+      "name" : "stagingFiles_csv_File"
+    }, {
+      "id" : "_gueZUtrYEeyTwpnn6heDyg",
+      "name" : "stagingFiles_csv_FieldSeparator"
+    }, {
+      "id" : "_gueZVdrYEeyTwpnn6heDyg",
+      "name" : "stagingFiles_csv_RowSeparator"
+    }, {
+      "id" : "_gueZUdrYEeyTwpnn6heDyg",
+      "name" : "stagingFiles_csv_Encoding"
+    } ]
+  } ]
+}
